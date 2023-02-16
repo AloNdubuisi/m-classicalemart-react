@@ -1,0 +1,18 @@
+img{
+    height:30em;
+    object-fit: cover;
+}
+.page-nav{
+    background-color: rgb(4, 4, 111);
+    /* color: rgb(99, 6, 6); */
+}
+.carousel-item {
+    opacity: 0.4;
+    transition: opacity .5s;
+} 
+  .carousel-item.active {
+    opacity: 1;
+}
+
+
+  
